@@ -30,7 +30,7 @@
 
 ### 1. Учебные материалы (Knowledge Base)
 - `.docx` файл с материалами курса **Graph Neural Networks**
-- Ссылка на данные - https://docs.google.com/document/d/1UogQIV_Mh7i3DDJqbHH9W49lZRUf-4I_/edit?usp=drive_link&ouid=111437029056960695955&rtpof=true&sd=true
+- Ссылка на данные - https://docs.google.com/document/d/1UogQIV_Mh7i3DDJqbHH9W49lZRUf-4I_/edit?usp=sharing&ouid=111437029056960695955&rtpof=true&sd=true
 - Лекции в формате .pdf 
 
 ### 2. Baseline RAG (без GNN)
